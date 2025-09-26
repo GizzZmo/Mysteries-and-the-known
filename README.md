@@ -70,6 +70,9 @@ The theories surrounding the Voynich Manuscript are as bizarre as its contents. 
 
 ## What We Know
 Radiocarbon dating has placed the Voynich Manuscript's creation sometime in the early 15th century, making it a genuine artifact of that era. Its text has been studied by some of the most brilliant minds in code-breaking, including those who cracked the Nazi's Enigma code, but to no avail. While some scholars believe it to be a hoax due to the unusual nature of the text and illustrations, others point to the internal structure of the language, which resembles a genuine linguistic pattern. Its true purpose remains unknown, but theories abound, including that it is a book of herbal remedies, an astrological text, or a coded message of some kind.
+
+---
+
 # Chapter 4: Jack the Ripper
 
 ## The Mystery
@@ -80,6 +83,9 @@ The list of potential suspects is long and varied, ranging from a member of the 
 
 ## What We Know
 Over 100 people were investigated as potential suspects, and dozens of theories have been put forward, but no one has ever been definitively proven to be Jack the Ripper. The murders took place over a period of just a few months, and then abruptly stopped. The lack of a clear motive or subsequent killings has only deepened the enigma. Forensic science at the time was in its infancy, so critical evidence was often mishandled. The truth is, the killer's identity remains a complete mystery, a cold case that continues to captivate the public imagination.
+
+---
+
 # Chapter 5: The Bermuda Triangle
 
 ## The Mystery
@@ -90,6 +96,9 @@ While the mystery of the Bermuda Triangle is captivating, the facts often tell a
 
 ## What We Know
 The U.S. Coast Guard and other organizations do not recognize the Bermuda Triangle as a genuine hazard. The vast majority of the disappearances can be attributed to natural causes, such as the area's frequent hurricanes and tropical storms. The Gulf Stream can also quickly erase debris from a crash. Additionally, the region is heavily traveled, which means there is a higher statistical probability of incidents occurring. In the case of Flight 19, naval investigators concluded the leader of the squadron, disoriented by poor weather, simply flew his planes until they ran out of fuel. The supernatural theories, while intriguing, have no basis in scientific fact.
+
+---
+
 # Chapter 6: The Lost City of Atlantis
 
 ## The Mystery
@@ -100,6 +109,9 @@ The search for Atlantis has been a global obsession, with numerous expeditions s
 
 ## What We Know
 Historians and archaeologists generally agree that Plato's account of Atlantis was fictional, a narrative device used to illustrate his political ideas about ideal societies. While there are some theories that Plato's story was based on a real event, such as the volcanic eruption that destroyed the Minoan civilization on the Greek island of Thera around 1600 BCE, Atlantis as a lost continent remains in the realm of mythology.
+
+---
+
 # Chapter 7: Stonehenge
 
 ## The Mystery
@@ -110,6 +122,9 @@ Theories on Stonehenge's purpose are as numerous as the stones themselves. One p
 
 ## What We Know
 Archaeological research has revealed that Stonehenge was constructed in several phases, beginning as early as 3000 BCE. The large sarsen stones were likely sourced from a quarry about 20 miles away, while the smaller bluestones came from a much greater distance in Wales, over 150 miles away. Scientists believe the stones were moved using a combination of sleds, ropes, and rolling logs. Recent excavations have confirmed that the site was used as a burial ground from its earliest phases, containing cremated human remains. The precise ritualistic or astronomical purpose is still debated, but the theories of it being a calendar or an astronomical observatory are the most popular. The true "how" and "why" remain elusive.
+
+---
+
 # Chapter 8: The Loch Ness Monster
 
 ## The Mystery
@@ -120,8 +135,14 @@ While the most common theory is that the Loch Ness Monster is a hoax or a case o
 
 ## What We Know
 The most famous photograph, the "Surgeon's Photograph" from 1934, which appeared to show the head and neck of the monster, was later revealed to be a hoax. Many other supposed sightings have been explained as misidentified seals, deer, or floating logs. Extensive sonar sweeps of the loch have failed to find any large, living creature. While the idea of a monster is thrilling, there is no conclusive scientific evidence to support its existence. It is widely believed that the legend of the Loch Ness Monster is a combination of folklore and modern hoaxes, a testament to the power of a compelling story.
+
+---
+
 # Epilogue: The Perpetual Unveiling
+
 We have journeyed through these mysteries, from the lost to the unexplained. In each case, we have drawn a line between the known and the unknown. But this line is not a boundary. It is a horizon. As new technologies emerge and new evidence is discovered, the line shifts, and the world's greatest mysteries might one day become its most compelling facts. For now, we are left with the beauty of the unanswered questions, and the endless pursuit of the truth.
+
+---
 
 # Alphabetical Index
 
