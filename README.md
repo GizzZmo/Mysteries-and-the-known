@@ -1,6 +1,6 @@
-## Mysteries-and-the-known
+# Mysteries-and-the-known
 
-# Novel
+## Novel
 
 # Foreword
 In the grand tapestry of human history, there are threads that have frayed and vanished, leaving behind not answers, but questions. These are the mysteries that haunt our collective imagination, the whispers in the dark corners of the world that defy explanation. This book is a journey into those whispers. It is an exploration not just of what we don't know, but also of what we can prove, seeking to draw a clear line between the two.
