@@ -70,13 +70,21 @@ We have journeyed through these mysteries, from the lost to the unexplained. In 
 
 # Alphabetical Index
 Amelia Earhart: Chapter 1
+
 Atlantis: Chapter 6
+
 Bermuda Triangle: Chapter 5
+
 Jack the Ripper: Chapter 4
+
 Loch Ness Monster: Chapter 8
+
 Roanoke Colony: Chapter 2
+
 Stonehenge: Chapter 7
+
 Voynich Manuscript: Chapter 3
+
 
 # Word Explanations
 Cryptid: An animal whose existence has been suggested but not scientifically proven.
