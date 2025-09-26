@@ -2,7 +2,16 @@
 
 ## Novel
 
+## About
+
+"Mysteries and the Known" is a captivating exploration of eight of history's most enduring unsolved puzzles. This novel takes readers on a journey through time and across the globe, from the disappearance of pioneering aviator Amelia Earhart to the ancient enigma of Stonehenge, from the chilling murders of Jack the Ripper to the legendary lost city of Atlantis.
+
+Each chapter is carefully structured to first immerse you in the full mystery—the questions, theories, and speculation that have captivated minds for generations. Then, with precision and clarity, the narrative draws a distinct line between myth and reality, separating verified facts from compelling conjecture. This unique approach allows readers to appreciate both the allure of the unknown and the power of evidence-based inquiry.
+
+Written by Jon-Arve Konstantin Grønsberg-Ovesen, this book is more than a collection of unsolved mysteries; it's a meditation on the nature of knowledge itself. It celebrates our endless curiosity while respecting the boundaries of what we can truly know. Whether you're a history enthusiast, a mystery lover, or simply someone fascinated by the edges of human understanding, "Mysteries and the Known" offers a thoughtful and engaging exploration of the questions that continue to haunt our collective imagination.
+
 ## Table of Contents
+- [About](#about)
 - [Foreword](#foreword)
 - [Author's Note by Jon Constantine](#authors-note-by-jon-constantine)
 - [Introduction](#introduction)
